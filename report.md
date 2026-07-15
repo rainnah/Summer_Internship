@@ -61,3 +61,12 @@ Mobile App Research
 ## Report
 
 Today I looked at different mobile applications and their designs. I focused on user interface and user experience. I compared different layouts, colors, icons, and navigation styles. I took notes about useful ideas that I can use in my own application. This research gave me inspiration and helped me understand what makes a mobile application easy to use.
+
+# Day 13
+
+## Topic
+Project Planning
+
+## Report
+
+Today I planned my project called Grade Analyzer Pro. I listed the main features such as student management, grade calculation, ranking, pass or fail analysis, and PDF import. I also thought about which Java data structures I can use while developing the project. Planning before coding helped me organize my ideas and prepare for the next development steps.
