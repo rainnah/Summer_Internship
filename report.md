@@ -1,3 +1,4 @@
+
 # Day 6
 
 ## Topic
@@ -15,3 +16,12 @@ Queue
 ## Report
 
 Today I studied the Queue data structure in Java. I learned that Queue works with the FIFO (First In, First Out) rule. I practiced using the `offer()`, `poll()`, and `peek()` methods in different examples. I created a simple bank queue and a printer queue program. These examples helped me understand how Queue processes data in the correct order. After today's study, I felt more confident using Queue in Java.
+
+# Day 8
+
+## Topic
+Tree
+
+## Report
+
+Today I learned about the Tree data structure. I studied Binary Tree and Binary Search Tree and learned the difference between them. I wrote simple Java code to create nodes and connect them. I also learned about root, parent, and child nodes. Tree is useful for storing hierarchical data. Today's practice helped me understand how Tree works and where it can be used in software development.
