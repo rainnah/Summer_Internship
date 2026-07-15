@@ -70,3 +70,12 @@ Project Planning
 ## Report
 
 Today I planned my project called Grade Analyzer Pro. I listed the main features such as student management, grade calculation, ranking, pass or fail analysis, and PDF import. I also thought about which Java data structures I can use while developing the project. Planning before coding helped me organize my ideas and prepare for the next development steps.
+
+# Day 14
+
+## Topic
+System Design
+
+## Report
+
+Today I created the first design of my application. I planned the main screens and thought about how users will move between them. I also designed simple data models such as Student and Course. Finally, I prepared a development roadmap to follow during the next weeks. This planning will make the development process easier and more organized.
