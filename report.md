@@ -43,3 +43,12 @@ Development Environment
 ## Report
 
 Today I prepared my computer for Flutter development. I installed Xcode, Flutter SDK, Dart SDK, and Visual Studio Code. After that, I installed the Flutter and Dart extensions in VS Code. I checked my installation using Flutter Doctor and solved a few small setup problems. Finally, I created a sample Flutter project to make sure everything worked correctly. Now my development environment is ready.
+
+# Day 11
+
+## Topic
+Flutter Basics
+
+## Report
+
+Today I explored the basic structure of a Flutter project. I learned about the `main.dart` file and how a Flutter application starts. I studied basic widgets such as Text, Container, Row, and Column. I also learned the difference between StatelessWidget and StatefulWidget. Finally, I created a simple Flutter application to practice these concepts and understand the project structure better.
