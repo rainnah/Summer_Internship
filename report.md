@@ -34,3 +34,12 @@ Heap & Priority Queue
 ## Report
 
 Today I studied Heap and Priority Queue in Java. I learned the difference between Min Heap and Max Heap. I created simple examples using the `PriorityQueue` class. I saw that the elements are automatically sorted according to their priority. I also learned why Priority Queue is useful in scheduling and task management. This topic helped me understand another important Java data structure.
+
+# Day 10
+
+## Topic
+Development Environment
+
+## Report
+
+Today I prepared my computer for Flutter development. I installed Xcode, Flutter SDK, Dart SDK, and Visual Studio Code. After that, I installed the Flutter and Dart extensions in VS Code. I checked my installation using Flutter Doctor and solved a few small setup problems. Finally, I created a sample Flutter project to make sure everything worked correctly. Now my development environment is ready.
