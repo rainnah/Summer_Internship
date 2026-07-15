@@ -52,3 +52,12 @@ Flutter Basics
 ## Report
 
 Today I explored the basic structure of a Flutter project. I learned about the `main.dart` file and how a Flutter application starts. I studied basic widgets such as Text, Container, Row, and Column. I also learned the difference between StatelessWidget and StatefulWidget. Finally, I created a simple Flutter application to practice these concepts and understand the project structure better.
+
+# Day 12
+
+## Topic
+Mobile App Research
+
+## Report
+
+Today I looked at different mobile applications and their designs. I focused on user interface and user experience. I compared different layouts, colors, icons, and navigation styles. I took notes about useful ideas that I can use in my own application. This research gave me inspiration and helped me understand what makes a mobile application easy to use.
