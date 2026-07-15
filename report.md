@@ -25,3 +25,12 @@ Tree
 ## Report
 
 Today I learned about the Tree data structure. I studied Binary Tree and Binary Search Tree and learned the difference between them. I wrote simple Java code to create nodes and connect them. I also learned about root, parent, and child nodes. Tree is useful for storing hierarchical data. Today's practice helped me understand how Tree works and where it can be used in software development.
+
+# Day 9
+
+## Topic
+Heap & Priority Queue
+
+## Report
+
+Today I studied Heap and Priority Queue in Java. I learned the difference between Min Heap and Max Heap. I created simple examples using the `PriorityQueue` class. I saw that the elements are automatically sorted according to their priority. I also learned why Priority Queue is useful in scheduling and task management. This topic helped me understand another important Java data structure.
